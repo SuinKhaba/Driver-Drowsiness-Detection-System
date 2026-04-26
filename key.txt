@@ -1,0 +1,3 @@
+Press Q to exit the program
+Press L to show AI face tracking (468 landmarks) 
+Press O to turn on the alarm system

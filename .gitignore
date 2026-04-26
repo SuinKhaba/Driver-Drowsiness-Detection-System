@@ -1,0 +1,25 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs & runtime files
+*.log
+driver_log.txt
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+
+# Allow only requirements file (if using txt ignore later)
+!requirements.txt
